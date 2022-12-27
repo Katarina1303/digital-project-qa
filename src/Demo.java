@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Demo {
+public class Demo {
+    //пустой класс
+
+    public void nothing() {}
 }
